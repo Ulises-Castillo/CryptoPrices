@@ -14,6 +14,8 @@
 		B1674C2926F6D82900F4FE5C /* CryptoPriceViewerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1674C2826F6D82900F4FE5C /* CryptoPriceViewerTests.swift */; };
 		B1674C3426F6D82900F4FE5C /* CryptoPriceViewerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1674C3326F6D82900F4FE5C /* CryptoPriceViewerUITests.swift */; };
 		B1674C4226F6D9CC00F4FE5C /* CryptoService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1674C4126F6D9CC00F4FE5C /* CryptoService.swift */; };
+		B1C4B48626F7E5DF003CDE37 /* CoinViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1C4B48526F7E5DF003CDE37 /* CoinViewModel.swift */; };
+		B1C4B48826F7E64B003CDE37 /* Coin.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1C4B48726F7E64B003CDE37 /* Coin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		B1674C3326F6D82900F4FE5C /* CryptoPriceViewerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoPriceViewerUITests.swift; sourceTree = "<group>"; };
 		B1674C3526F6D82900F4FE5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1674C4126F6D9CC00F4FE5C /* CryptoService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptoService.swift; sourceTree = "<group>"; };
+		B1C4B48526F7E5DF003CDE37 /* CoinViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinViewModel.swift; sourceTree = "<group>"; };
+		B1C4B48726F7E64B003CDE37 /* Coin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				B1674C1626F6D82700F4FE5C /* CryptoPriceViewerApp.swift */,
 				B1674C1826F6D82700F4FE5C /* CoinList.swift */,
 				B1674C4126F6D9CC00F4FE5C /* CryptoService.swift */,
+				B1C4B48526F7E5DF003CDE37 /* CoinViewModel.swift */,
+				B1C4B48726F7E64B003CDE37 /* Coin.swift */,
 				B1674C1A26F6D82900F4FE5C /* Assets.xcassets */,
 				B1674C1F26F6D82900F4FE5C /* Info.plist */,
 				B1674C1C26F6D82900F4FE5C /* Preview Content */,
@@ -265,6 +271,8 @@
 				B1674C1926F6D82700F4FE5C /* CoinList.swift in Sources */,
 				B1674C4226F6D9CC00F4FE5C /* CryptoService.swift in Sources */,
 				B1674C1726F6D82700F4FE5C /* CryptoPriceViewerApp.swift in Sources */,
+				B1C4B48826F7E64B003CDE37 /* Coin.swift in Sources */,
+				B1C4B48626F7E5DF003CDE37 /* CoinViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
